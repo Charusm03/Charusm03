@@ -1,18 +1,10 @@
 <div align="center">
 
-# 🌟 Welcome to My Digital Universe 🌟
-
-```ascii
-   ______   __  __     ______     ______     __  __    
-  /\  ___\ /\ \_\ \   /\  __ \   /\  == \   /\ \/\ \   
-  \ \ \____\ \  __ \  \ \  __ \  \ \  __<   \ \ \_\ \  
-   \ \_____\\ \_\ \_\  \ \_\ \_\  \ \_\ \_\  \ \_____\ 
-    \/_____/ \/_/\/_/   \/_/\/_/   \/_/ /_/   \/_____/ 
-```
+# 🌟 Hey There...I'm Charu S M🌟
 
 ### 👨‍💻 Information Technology Student | 🎨 Full-Stack Developer | ✨ UI/UX Enthusiast
 
-*"Every project begins as an idea — I just turn it into something you can click."* ⚡
+*"Every product tells a story — I just make sure the plot runs without bugs."* ⚡
 
 </div>
 
