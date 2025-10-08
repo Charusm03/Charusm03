@@ -87,20 +87,23 @@ I'm passionate about transforming ideas into interactive, user-friendly applicat
 ---
 
 
-### 📚 Learning Pipeline
+### 📚 Developer's Pipeline
++ Began my coding journey 🚀
++ Built my first full-stack project 🧩
++ Started with Flutter & React 🔥
+! Always evolving — always learning 💡
 
-```diff
-@@ Current Sprint @@
-+ Exploring advanced React patterns and hooks
-+ Diving deep into Flutter state management (Bloc, Riverpod)
-+ Understanding scalable backend architectures
-+ Implementing JWT authentication best practices
-! Always coding, always learning, always growing
-```
 
 </div>
 
 ---
+
+## 🚀 Current Focus
+
+- Enhancing my full-stack development skills  
+- Building scalable, user-friendly web and mobile applications  
+- Exploring cloud deployment and CI/CD workflows  
+
 
 ## 📊 GitHub Analytics
 
@@ -138,24 +141,7 @@ I'm always excited to collaborate on innovative projects, share knowledge, and b
 
 ---
 
-<div align="center">
-
-### 📈 Profile Insights
-
-![Profile Views](https://komarev.com/ghpvc/?username=Charusm03&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-
-<br/>
-
-```diff
-+ 🎯 Committed to continuous improvement
-+ 💡 Passionate about elegant solutions
-+ 🤝 Strong believer in community-driven development
-+ ⚡ Turning coffee into code since learning to program
-```
-
----
-
-### ⭐ *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+### ⭐ *"Code. Create. Evolve."*
 
 **Thanks for stopping by! Feel free to explore my repositories and star the ones you find interesting!** ⭐
 
@@ -164,3 +150,6 @@ I'm always excited to collaborate on innovative projects, share knowledge, and b
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
 </div>
+
+
+
