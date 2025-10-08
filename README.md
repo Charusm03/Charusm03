@@ -11,35 +11,7 @@
 ---
 
 ## 🚀 About Me
-
-```typescript
-class Developer {
-  name: string = "Charu S.M.";
-  role: string = "Information Technology Student";
-  location: string = "India 🇮🇳";
-  
-  skills: {
-    frontend: string[] = ["Flutter", "React", "HTML5", "CSS3", "JavaScript"];
-    backend: string[] = ["Node.js", "Express.js"];
-    database: string[] = ["MySQL"];
-    tools: string[] = ["Git", "VS Code", "Postman", "Figma", "JWT"];
-  };
-  
-  currentFocus(): string[] {
-    return [
-      "Building scalable full-stack systems 🏗️",
-      "Crafting mobile-first responsive designs 📱",
-      "Exploring cloud deployment & real-time apps ☁️"
-    ];
-  }
-  
-  philosophy(): string {
-    return "Blending creativity with logic to craft seamless digital experiences";
-  }
-}
-```
-
-I'm passionate about transforming ideas into interactive, user-friendly applications. Whether it's building elegant mobile apps with Flutter, creating dynamic web interfaces with React, or architecting robust backend systems, I thrive on bringing digital experiences to life with clean code and thoughtful design.
+  I'm passionate about transforming ideas into interactive, user-friendly applications. Whether it's building elegant mobile apps with Flutter, creating dynamic web interfaces with React, or architecting robust backend systems, I thrive on bringing digital experiences to life with clean code and thoughtful design.
 
 ---
 
