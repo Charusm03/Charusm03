@@ -158,16 +158,6 @@ class CharuSM extends Developer {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Charusm03&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -185,13 +175,12 @@ class CharuSM extends Developer {
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Charusm03/Charusm03/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Charusm03/Charusm03/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Charusm03/Charusm03/output/github-snake.svg" />
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Charusm03/Charusm03/output/github-snake.svg" />
 </picture>
 
-*Enable the snake: go to [Platane/snk](https://github.com/Platane/snk) and follow the 3-step GitHub Action setup.*
+<sub>To enable this animation, set up the GitHub Action from Platane/snk.</sub>
 
 </div>
-
 ---
 
 ## 🎯 Dev Philosophy
