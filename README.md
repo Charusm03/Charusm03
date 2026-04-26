@@ -1,119 +1,113 @@
 <div align="center">
 
-# 🌟 Hey There...I'm Charu S M🌟
+<!-- Profile Views Counter -->
+![Profile Views](https://komarev.com/ghpvc/?username=Charusm03&color=58a6ff&style=flat-square&label=Profile+Views)
 
-### 👨‍💻 Information Technology Student | 🎨 Full-Stack Developer | ✨ UI/UX Enthusiast
+# 👋 Hi, I'm Charu S M
 
-*"Every product tells a story — I just make sure the plot runs without bugs."* ⚡
+**Full-Stack Developer · Flutter + React · Chennai, India**
+
+*I build mobile and web apps that feel as good as they work.*  
+*Started with Flutter, now expanding into full-stack React — always chasing the gap between good UX and clean architecture.*
 
 </div>
 
 ---
 
-## 🚀 About Me
-  I'm passionate about transforming ideas into interactive, user-friendly applications. Whether it's building elegant mobile apps with Flutter, creating dynamic web interfaces with React, or architecting robust backend systems, I thrive on bringing digital experiences to life with clean code and thoughtful design.
+## 🛠 Tech Stack
 
----
+**Mobile**
 
-## 🛠️ Technology Arsenal
-
-<div align="center">
-
-### 🎨 Frontend Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+**Frontend**
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### ⚙️ Backend Development
+**Backend & Database**
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🗄️ Database & Authentication
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+**Tools & Design**
 
-### 🔧 Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-### 💻 Programming Languages
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-</div>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
+## 🚀 Featured Projects
 
-### 📚 Developer's Pipeline
-+ Began my coding journey 🚀
-+ Built my first full-stack project 🧩
-+ Started with Flutter & React 🔥
-! Always evolving — always learning 💡
+### 📱 [Your Flutter App Name](https://github.com/Charusm03/your-repo)
+> A [what it does] built for [who]. [One sentence on a challenge you solved or outcome achieved.]
 
-
-</div>
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
 ---
 
-## 🚀 Current Focus
+### 🌐 [Your React/Web Project Name](https://github.com/Charusm03/your-repo)
+> A [what it does] web app with [key feature]. [One concrete outcome or interesting thing you built.]
 
-- Enhancing my full-stack development skills  
-- Building scalable, user-friendly web and mobile applications  
-- Exploring cloud deployment and CI/CD workflows  
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
+---
 
-## 📊 GitHub Analytics
+### 🎨 [Your UI/UX or Side Project](https://github.com/Charusm03/your-repo)
+> A [what it does]. [What makes it interesting or what you learned building it.]
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+---
+
+## ⚡ Currently
+
+- 🔨 **Building:** a full-stack React + Node.js project *(add one line about it)*
+- 📖 **Learning:** cloud deployment (Vercel, Railway) + CI/CD basics
+- 🤝 **Open to:** internships, freelance projects, open source collabs
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Charusm03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charusm03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="170"/>
+<!-- GitHub Stats Card -->
+![Charu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Charusm03&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Charusm03&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" />
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Charusm03&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Charusm03&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B" alt="Contribution Graph" />
+<!-- GitHub Streak -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=Charusm03&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🌐 Let's Connect & Collaborate
+## 📬 Let's Build Something
+
+I'm open to collabs, freelance work, and interesting projects. Best ways to reach me:
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.vercel.app)
+
+---
 
 <div align="center">
 
-I'm always excited to collaborate on innovative projects, share knowledge, and build something amazing together! Whether you have an idea, need a collaborator, or just want to chat about tech, feel free to reach out.
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Charusm03)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charusm)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://charusm-portfolio.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:charusubbian@gmail.com)
-
-<br/>
-
-### 💬 Open to Collaborations • 🚀 Always Learning • ✨ Building the Future
+*"Code. Create. Evolve."*
 
 </div>
-
----
-
-### ⭐ *"Code. Create. Evolve."*
-
-**Thanks for stopping by! Feel free to explore my repositories and star the ones you find interesting!** ⭐
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-
-</div>
-
-
-
