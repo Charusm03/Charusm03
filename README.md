@@ -4,8 +4,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b2e,100:58a6ff&height=200&section=header&text=Charu%20S%20M&fontSize=60&fontColor=e6edf3&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Flutter%20%2B%20React%20%C2%B7%20Chennai&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Building+apps+that+feel+as+good+as+they+work;Flutter+%E2%86%92+React+%E2%86%92+Full-Stack;Clean+code+%2B+Thoughtful+design;Always+learning.+Always+shipping." alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Building+real-world+web+apps;KuaiBite+%7C+VendorVibe+%7C+RBAC+Systems;Frontend+%E2%86%92+Full-Stack+React;Clean+UI%2FUX+%2B+Scalable+code;Always+learning.+Always+building." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -134,10 +134,10 @@ class CharuSM extends Developer {
 
 | Status | What |
 |--------|------|
-| 🔨 Building | Full-stack React + Node.js app *(add one line)* |
-| 📖 Learning | Cloud deployment · CI/CD · Docker basics |
-| 🤝 Open to | Internships · Freelance · Open source collabs |
-| 💬 Ask me about | Flutter · Firebase · React · UI/UX |
+| 🔨 Building | Real-world full-stack apps |
+| 📖 Learning | Full-stack React · Backend systems · Database design |
+| 🤝 Open to | Internships · Hackathons · Real-world collaborations |
+| 💬 Ask me about | React · Node.js · Flutter · MySQL |
 
 ---
 
