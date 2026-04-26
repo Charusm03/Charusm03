@@ -167,22 +167,6 @@ class CharuSM extends Developer {
 </div>
 
 ---
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Charusm03/Charusm03/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Charusm03/Charusm03/output/github-snake.svg" />
-  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Charusm03/Charusm03/output/github-snake.svg" />
-</picture>
-
-<sub>To enable this animation, set up the GitHub Action from Platane/snk.</sub>
-
-</div>
----
-
 ## 🎯 Dev Philosophy
 
 > **Design first. Code second. Ship always.**
