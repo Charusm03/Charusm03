@@ -29,19 +29,27 @@ class CharuSM extends Developer {
   final String role     = "Full-Stack Developer";
   final String location = "Chennai, India";
 
-  final List<String> currentlyBuilding = [
-    "Full-stack web apps with React + Node.js",
-    "Mobile experiences with Flutter",
-    "Scalable backends with Firebase and MongoDB",
+  final List<String> building = [
+    "Real-world web apps",
+    "Full-stack systems with React + backend integration",
+    "User-focused interfaces with clean UI/UX",
+  ];
+
+  final List<String> growingInto = [
+    "Scalable architectures",
+    "Database design (MySQL, MongoDB)",
+    "Problem-solving through hackathons",
   ];
 
   final Map<String, String> mindset = {
-    "Design"   : "Every pixel is a decision",
-    "Code"     : "Clean > Clever",
-    "Learning" : "Always in progress",
+    "Design"   : "UX is not decoration, it's functionality",
+    "Code"     : "Clean, readable, and scalable",
+    "Approach" : "Build → Break → Improve",
   };
 
-  String ask() => "Let's build something great together.";
+  String vision() => "Turning ideas into practical, user-friendly systems.";
+
+  String ask() => "Let's build something impactful.";
 }
 ```
 
@@ -52,7 +60,6 @@ class CharuSM extends Developer {
 **Mobile Development**
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 **Frontend**
 
@@ -60,13 +67,11 @@ class CharuSM extends Developer {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **Backend & Database**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **Tools & Design**
@@ -85,55 +90,39 @@ class CharuSM extends Developer {
 <tr>
 <td width="50%">
 
-### 📱 [Your Flutter App Name](https://github.com/Charusm03/your-repo)
-> A [what it does] built for [who].
-> [One sentence on challenge solved or result.]
+### 📱 RBAC To-Do Applications(https://github.com/Charusm03/todo-app)
+> A full-stack to-do app with Role-Based Access Control (RBAC) for multi-user environments.
+> Implements RBAC to ensure secure task assignment, improving organization and workflow efficiency.
 
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-
-[Live Demo →](https://your-link.com)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 
 </td>
 <td width="50%">
 
-### 🌐 [Your React Project Name](https://github.com/Charusm03/your-repo)
-> A [what it does] web app with [key feature].
-> [One concrete outcome or interesting thing built.]
+### 🌐 VendorVibe – Street Vendor & Supplier Platform(https://github.com/Charusm03/VendorVibe)
+> A web app that connects street vendors with suppliers, featuring role-based dashboards and product browsing.
+> Built an end-to-end workflow where vendors can explore suppliers, view products, and manage orders seamlessly.
 
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-[Live Demo →](https://your-link.com)
+[Live Demo →](https://vendor-vibe-gamma.vercel.app/)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🎨 [UI/UX or Design Project](https://github.com/Charusm03/your-repo)
-> A [what it does] focused on interaction design.
-> [What makes the UX interesting or what you solved.]
+### 🔧 Smart Classroom Allocation System(https://github.com/Charusm03/classroom-allocation)
+> A full-stack classroom allocation and management system with automated scheduling.
+> Built an allocation engine with real-time CSV validation, reducing manual scheduling conflicts.
 
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-[Case Study →](https://your-link.com)
-
-</td>
-<td width="50%">
-
-### 🔧 [Backend / API Project](https://github.com/Charusm03/your-repo)
-> A [what it does] REST API or backend system.
-> [Key architecture decision or performance win.]
-
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-[Docs →](https://your-link.com)
 
 </td>
 </tr>
@@ -219,10 +208,9 @@ class CharuSM extends Developer {
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.vercel.app)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:charusubbian@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/charusm)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)]([https://your-portfolio.vercel.app](https://charusm-portfolio.netlify.app/))
 
 </div>
 
